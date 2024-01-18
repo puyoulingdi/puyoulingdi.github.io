@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kun Shi / Site Title"
+title                    : "Kun Shi"
 title_separator          : "-"
 name                     : &name "Kun Shi"
 description              : &description "personal description"
