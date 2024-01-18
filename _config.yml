@@ -85,7 +85,7 @@ author:
 #  bio              : "Your biography for the left-hand sidebar"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+# pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Tpc4RQ8AAAAJ&hl=zh-CN&oi=ao"
   email            : "kun.shi@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
