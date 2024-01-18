@@ -23,8 +23,18 @@ Journal
 
 Conference
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **Kun Shi**, Shibo He, and Jiming Chen. "Radar and Camera Fusion for Multi-Task Sensing in Autonomous Driving." IEEE Applied Sensing Conference (APSCON), Bengaluru, India, Jan. 2023. 
+- Anjun Chen, Xiangyu Wang, **Kun Shi**, Shaohao Zhu, Yingfeng Chen, Bin Fang, Jiming Chen, Yuchi Huo, and Qi Ye. "ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions". IEEE International Conference on Robotics and Automation (ICRA), London, England, May. 2023.
+- Yanyan Huang, Yong Wang, **Kun Shi**, Chaojie Gu, Yu Fu, Cheng Zhuo, and Zhiguo Shi. "HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar." IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, Jun. 2023.
+- - Yaqing Gu, Shiyuan Meng, and **Kun Shi**. "Radar-Enhanced Image Fusion-based Object Detection for Autonomous Driving". IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, Oct. 2022.
 
 Honors and Awards
 ======
+- 2022.10 Nation Scholarship
+- 2017.11 President's Medal
+- 2017.10 Nation Scholarship
+- 2016.10 Nation Scholarship
+- 2015.10 Nation Scholarship
+
+
 
